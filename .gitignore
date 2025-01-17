@@ -1,6 +1,6 @@
 # Ne pas ignorer ces dossiers
 !backend/
-!client
+
 
 # Node
 node_modules/
